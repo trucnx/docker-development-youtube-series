@@ -1,0 +1,1 @@
+{"jobID":"3879b136-1a9c-7852-74bc-aeb87205653a","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"default:deployment/example-deploy":{"add":{"tag.example-app":"glob:1.0.*"},"remove":{}}}},"result":null}
